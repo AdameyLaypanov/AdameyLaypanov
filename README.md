@@ -9,7 +9,7 @@
 *   🖥️  Активно решаю задачи на LeetCode, решения [тут](http://github.com/AdameyLaypanov/CodeWorkGrind)
 
     [![LeetCode user adameylaypanov](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadameylaypanov&logo=leetcode&logoColor=yellow)](https://leetcode.com/adameylaypanov/)
-*   🚀  Сделали прикольный курсовой[проект](http://https://github.com/AdameyLaypanov/Coursework_Laypanov_Potekhin_Nikitina) с однокурсниками(надо чуть привести в порядок)
+*   🚀  Сделали прикольный курсовой [проект](http://https://github.com/AdameyLaypanov/Coursework_Laypanov_Potekhin_Nikitina) с однокурсниками(надо чуть привести в порядок)
 *   🧠  Активно развиваюсь в SQL, ML и алгоритмах
   
   ### Хард-скиллы 

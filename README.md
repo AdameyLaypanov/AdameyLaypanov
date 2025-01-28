@@ -3,6 +3,12 @@
 
 - 💻 Working in the field of: Data Science  
 - 🚀 Currently working on: [Basketball Foul Detection](https://github.com/AdameyLaypanov/Basketball_foul_detection)  
-- 🛠️ Key skills: ![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif), C++  
+- 🛠️ Key skills:  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=scikit-learn&logoColor=white)  
+  ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-003569?logo=pytorch&logoColor=white)  
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+
+Here, I share my projects and experiments. Feedback is always welcome!
 
 Here, I share my projects and experiments. Feedback is always welcome!
